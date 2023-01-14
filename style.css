@@ -203,7 +203,7 @@ button{
     font-size: larger;
     font-weight: 580;
 }
-@media screen and (min-width: 360px) and (max-width: 450px){
+@media screen and (min-width: 300px) and (max-width: 450px){
     .header{
         width: 1200px;
         height: 180px;
